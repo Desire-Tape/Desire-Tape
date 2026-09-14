@@ -1,11 +1,15 @@
 <div align="center">
+<div align="center">
 
+```text
 ██████╗ ███████╗███████╗██╗██████╗ ███████╗
 ██╔══██╗██╔════╝██╔════╝██║██╔══██╗██╔════╝
 ██║  ██║█████╗  ███████╗██║██████╔╝█████╗
 ██║  ██║██╔══╝  ╚════██║██║██╔══██╗██╔══╝
 ██████╔╝███████╗███████║██║██║  ██║███████╗
 ╚═════╝ ╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚══════╝
+```text
+
 Desire Tape (Djason) — Fullstack Developer · UI/UX Designer · AI Explorer
 
 Typing SVG
@@ -116,8 +120,3 @@ echo $MESSAGE
 ⭐ Si tu trouves quelque chose d'utile ici, n'hésite pas à explorer mes dépôts.
 
 </div>
-Contenu
-
-1. Va exactement ici sur GitHub Ouvre ton dépôt : Desire-Tape Puis : README.md → ✏️ Edit Tu vas voir ton README actuel dans l'éditeur. 2. CE QUE TU DOIS FAIRE 🗑️ Supprime TOUT le contenu actuel Dans l'éditeur GitHub : Ctrl + A → Suppr Il ne doit plus rester aucune ligne de ton ancien READM
-
-PASTED
