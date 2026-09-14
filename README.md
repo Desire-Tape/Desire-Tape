@@ -1,12 +1,16 @@
-<h1 align="center">👨🏾‍💻 DESIRE DEV</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Fullstack Developer • UI/UX Designer • AI Explorer</strong>
-</p>
+# 👨🏾‍💻 DESIRE DEV
 
-<p align="center">
-  <code>Code</code> • <code>Design</code> • <code>AI</code> • <code>Innovation</code>
-</p>
+### Fullstack Developer • UI/UX Designer • AI Explorer
+
+[![GitHub](https://img.shields.io/badge/GitHub-Desire--Tape-181717?style=for-the-badge&logo=github)](https://github.com/Desire-Tape)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Desire%20Tape-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Desire-Tape&style=for-the-badge&color=blue)](https://github.com/Desire-Tape)
+
+**Code • Design • AI • Innovation**
+
+</div>
 
 ---
 
@@ -25,59 +29,6 @@ class DesireDev:
         "Data"
     ]
 
-    currently_learning = [
-        "React",
-        "TypeScript",
-        "Next.js",
-        "API Design"
-    ]
+    location = "Côte d'Ivoire"
 
     philosophy = "Learn. Build. Improve. Repeat."
-
----
-
-> stack --list
-
-### 💻 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-`HTML` • `CSS` • `JavaScript` • `React` • `Tailwind CSS`
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django" />
-</p>
-
-`Python` • `Django` • `Django REST Framework`
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
-
-`PostgreSQL` • `SQL`
-
-### 🎨 Design & UI/UX
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-`Figma` • `UI/UX Design`
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-`Git` • `GitHub` • `VS Code` • `Postman`
-
-### 🤖 AI & Data
-
-`Artificial Intelligence` • `Data Analysis` • `AI Tools`
